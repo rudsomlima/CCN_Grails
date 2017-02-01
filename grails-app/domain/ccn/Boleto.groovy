@@ -3,6 +3,7 @@ package ccn
 class Boleto {
 
     String nome
-    String vencimento
+    Date vencimento
+    Integer valor
 
 }
